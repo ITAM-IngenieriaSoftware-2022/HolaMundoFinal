@@ -37,7 +37,7 @@ Por otro lado, los asesores tendrán la posibilidad de subir apuntes, ejercicios
 La plataforma funcionará en cualquier buscador y en cualquier dispositivo (computadoras, celulares, tablets, etc.). No tendrá ninguna restricción en cuanto al entorno operativo. 
 ### 2.5 Restricciones de diseño e implementación 
 El programa únicamente podrá ser utilizado por miembros de la comunidad del ITAM (alumnos y profesores), al menos en la fase inicial del software. De igual manera, el tamaño de los documentos que se podrán subir estará restringido a la capacidad de Google Cloud, plataforma que se utilizará para almacenar todos los documentos. 
-### 2.5 Documentación del usuario 
+### 2.6 Documentación del usuario 
 
 * El usuario necesita descargar Visual Studio Code o el IDE de su elección para ejecutar el código.
 * Se requiere descargar Python, cualquier version mayor a 3 es funcional.
@@ -49,10 +49,10 @@ El programa únicamente podrá ser utilizado por miembros de la comunidad del IT
       python application.py
 * ¡Listo!
 
-### 2.6 Suposiciones y dependencias 
+### 2.7 Suposiciones y dependencias 
 En este documento se asume que todos los usuarios tendrán una cuenta de Comunidad ITAM y un correo institucional.
 ## 3. Reuqisitos de la interfaz externa 
-### 3.4 Interfaces de comunicaciones 
+### 3.1 Interfaces de comunicaciones 
 Todos los usuarios deberán permitir el acceso a sus cuentas de correo, a través de las cuales se enviarán las solicitudes de asesorías, o bien, se recibirán estas solicitudes. No se les pedirá ningún otro dato a los usuarios más que su nombre, correo y, en caso de así permitirlo, su número de teléfono. 
 ## 4. Características del sistema 
 ### 4.1 Iniciar sesión 
