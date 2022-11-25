@@ -2,18 +2,21 @@
 ## 1. Identificador del plan de pruebas 
 **AT-01.01**
 ## 2. Referencias 
-* Especificaciones de Requerimientos de Software 
+* [Especificaciones de Requerimientos de Software](README.md) 
 ## 3. Introducción 
 Este es el plan de pruebas para la aplicación de asesorías “Asesor-AT”. Este plan abordará únicamente aquellos elementos relacionados con la carga y descarga de archivos guardados en el servidor.  El principal enfoque de este plan es verificar que los archivos puedan guardarse de manera segura en el servidor y que cualquiera pueda acceder a ellos. 
 
 El cronograma estimado para este proyecto es de aproximadamente un mes, por lo que puede haber retrasos en el lanzamiento del proyecto o pueden haber modificaciones en el mismo programa para mejorar este funcionalidad de la carga de archivos. 
 
 ## 4. Elementos de prueba (funcionalidades) 
-
+Las funcionalidades que se probarán son: 
+* Creación de usuarios 
+* Carga de archivos en el sistema
 ## 5. Problemas de riesgo de software 
 Dado que la aprobación de un asesor por parte de un profesor depende de los documentos que el alumno suba (historial académico, CV, etc.), esta funcionalidad se puede ver afectada en caso de que haya un error en la carga o lectura de archivos. 
 ## 6. Funcionalidades por probar 
 A continuación se muestra una lista de las funcionalidades que se deberán probar: 
+* Creación de una cuenta
 * Carga de un archivo PDF; 
 * Carga de un archivo DOCX;
 * Carga de una imagen JPG;
@@ -23,12 +26,19 @@ A continuación se muestra una lista de las funcionalidades que se deberán prob
 
 ## 7. Funcionalidades que no se probarán
 A continuación se muestra una lista de las funcionalidades que no se probarán: 
-* Creación de una cuenta 
 * Acceso a la aplicación 
 * Búsqueda de asesores por materia 
 
 ## 8. Estrategia 
-
+### 8.1 Niveles de prueba
+El líder del equipo de desarrollo realizará y supervisará pruebas con diferentes usuarios para revisar el correcto funcionamiento del sistema al momento de cargar archivos. 
+### 8.2 Reuniones 
+El equipo se reunirá al menos una vez a la semana para realizar los ajustes y cambios necesarios en la aplicación y en las bases de datos. En las reuniones deberá estar todo el equipo de desarrollo presente. 
+### 8.3 Medidas y métricas 
+Se recolectará la siguiente información en las pruebas: 
+* Errores al momento de la carga de archivos 
+* Tiempo de espera en la carga de archivos 
+* Error en la búsqueda de los archivos de las materias
 ## 9. Criterios de aceptación / falla del sistema
 El proceso de prueba se completará una vez que al menos un asesor haya subido tres documentos a la plataforma (un PDF, un DOCX y un JPG) y un alumno haya podido acceder y leer cada uno de ellos. 
 ## 10. Criterios de suspensión y requisitos de reanudación 
@@ -56,4 +66,3 @@ Se realizarán las siguientes actividades de pruebas:
 * Lectura de una imagen JPG
 ## 17. Planificación de riesgos y contingencias 
 No se cuenta con ningún impedimento para la realización de las pruebas.
-## 18. Aprobaciones 
