@@ -45,21 +45,27 @@ Todos los usuarios deberán permitir el acceso a sus cuentas de correo, a travé
 ## 4. Características del sistema 
 ### 4.1 Iniciar sesión 
 ![image](https://user-images.githubusercontent.com/88466180/203899212-b01c0ef1-1fb7-417e-a2dc-ee763540bf57.png)
+
 Los usuarios podrán iniciar sesión con sus correos. 
 ### 4.2 Registrarse como usuarios 
 ![image](https://user-images.githubusercontent.com/88466180/203899295-b2ae443a-66a2-4e44-ab1a-8376827bfc4b.png)
+
 Se podrán crear nuevos usuarios con los correos de los alumnos.
 ### 4.3 Subir un documento
 ![image](https://user-images.githubusercontent.com/88466180/203898618-13c2a8aa-64dc-4c26-83b1-95a840830426.png)
+
 El usuario podrá subir documentos como apuntes, exámenes anteriores o guías de determinadas materias para apoyar a los demás usuarios. 
 ### 4.4 Buscar un documento 
 ![image](https://user-images.githubusercontent.com/88466180/203898904-fc474d31-375b-4af2-86f7-373a800b6643.png)
+
 El usuario podrá buscar documentos de apoyo para cualquier materia que desee. 
 ### 4.5 Buscar asesorías 
 ![image](https://user-images.githubusercontent.com/88466180/203898999-fdce4487-f499-43e9-9416-8f3f8d2bfe75.png)
+
 El usuario podrá buscar asesores disponibles para cualquier materia. 
 ### 4.6 Registrarse como asesor 
 ![image](https://user-images.githubusercontent.com/88466180/203899125-b0729373-b870-4753-9c98-34a0f7c8e9cd.png)
+
 Cualquier usuario podrá registrarse como asesor para alguna materia, indicando también el monto que cobrará por esta. 
 ## 5. Otros reauisitos no funcionales 
 ### 5.1 Reglas de la plataforma 
