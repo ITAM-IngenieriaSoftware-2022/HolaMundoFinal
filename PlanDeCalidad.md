@@ -55,8 +55,12 @@ En caso de que no haya ningún alumno que desee fungir como asesor en las prueba
 * Instructivo para el uso de la aplicación 
 
 ## 12. Tareas de prueba restantes 
-|  Tarea  | ASIGNADO A | ESTATUS |
-|---------|----------|---------|
+|  TAREA  | ASIGNADO A | ESTATUS |
+|----------------------------|----------|---------|
+|Pruebas con el usuario final|Victor|Pendiente|
+|Prueba de que funcionalidad para que asesor agregue materia| Israel| Pendiente|
+|Prueba de funcionalidad para que el asesor revise y apruebe documentos| Andrea| Pendiente|
+|Prueba de instalación de una forma de pagp| Sara |Pendiente| 
 ## 13. Necesidades ambientales 
 Únicamente se necesita tener acceso a algún buscador de internet. 
 
