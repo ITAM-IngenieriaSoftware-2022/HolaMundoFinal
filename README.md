@@ -39,14 +39,14 @@ La plataforma funcionará en cualquier buscador y en cualquier dispositivo (comp
 El programa únicamente podrá ser utilizado por miembros de la comunidad del ITAM (alumnos y profesores), al menos en la fase inicial del software. De igual manera, el tamaño de los documentos que se podrán subir estará restringido a la capacidad de Google Cloud, plataforma que se utilizará para almacenar todos los documentos. 
 ### 2.5 Documentación del usuario 
 
-El usuario necesita descargar Visual Studio Code o el IDE de su elección para ejecutar el código.
-También necesita clonar el código dentro de la carpeta "Código Final" a su computadora.
-Se necesita ejecutar el programa mediante una terminal nueva.
-Posteriormente necesita instalar los requerimientos mediante: 
+* El usuario necesita descargar Visual Studio Code o el IDE de su elección para ejecutar el código.
+* También necesita clonar el código dentro de la carpeta "Código Final" a su computadora.
+* Se necesita ejecutar el programa mediante una terminal nueva.
+* Posteriormente necesita instalar los requerimientos mediante: 
       pip install -r requirements
-Por último ejecutar la aplicación flask mediante
+* Por último ejecutar la aplicación flask mediante
       python application.py
-¡Listo!
+* ¡Listo!
 
 ### 2.6 Suposiciones y dependencias 
 En este documento se asume que todos los usuarios tendrán una cuenta de Comunidad ITAM y un correo institucional.
