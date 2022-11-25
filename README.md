@@ -94,13 +94,13 @@ Utilizamos una metodología Feature Driven para desarrollar el proyecto, pues de
         * El usuario tiene un correo electronico el cual usar para su registro.
         * El usuario llena correctamente el formulario
 
-* Inicio de Sesión. ![Caso_Inicio_Sesion](documentation_images/Caso_Inicio_Sesion.PNG)         
+* Inicio_de_Sesión. ![Caso_Inicio_Sesion](documentation_images/Caso_Inicio_Sesion.PNG)         
    * Supuestos. 
        * El usuario ha creado una cuenta en nuestra aplicación
        * El usuario ingresa correctamente los datos de su cuenta.
        * El usuario está familiarizado con el proceso de inicio de sesion.
 
-* Inicio de Sesión. ![Caso_Quiero_Ser_Asesor](documentation_images/Caso_Quiero_Ser_Asesor.PNG)         
+* Quiero_Ser_Asesor. ![Caso_Quiero_Ser_Asesor](documentation_images/Caso_Quiero_Ser_Asesor.PNG)         
    * Supuestos. 
        * El usuario ha creado una cuenta en nuestra aplicación
        * El usuario ingresa correctamente los datos de su cuenta.
@@ -109,4 +109,13 @@ Utilizamos una metodología Feature Driven para desarrollar el proyecto, pues de
        * El usuario tiene una clave unica del ITAM
        * El usuario sabe cuanto quiere cobrar por una asesoria
        * El usuario da click al boton de enviar para concluir el registro de la asesoria
+
+* Buscar_Documento. ![Caso_Buscar_Documento](documentation_images/Caso_Buscar_Documento.PNG)         
+   * Supuestos. 
+       * El usuario ha creado una cuenta en nuestra aplicación
+       * El usuario ingresa correctamente los datos de su cuenta.
+       * El usuario ha iniciado sesion correctamente.
+       * El usuario ingresa al a pestaña de buscar documento.
+       * El usuario selecciona una materia de la que le interese ver los documentos existentes en nuestra aplicación.
+       * El usuario da click en el boton de buscar una vez seleccionada la materia de su interés.
       
