@@ -7,6 +7,7 @@ import json
 credentials_path = 'Project/asesoriasonline-ead83ac573f6.json'
 os.environ['GOOGLE_APPLICATION_CREDENTIALS']=credentials_path
 
+
 client=bigquery.Client()
 table_asesor_id='asesoriasonline.asesorias_online.asesor'
 table_documentos_id='asesoriasonline.asesorias_online.documentos'
@@ -39,6 +40,7 @@ def agregar_candidato_asesor(materia, nombre, apellido, clave_unica, telefono, c
   else:
     resp=False
   return resp
+
 
 def agregar_asesor(materia, nombre, apellido, clave_unica, telefono, correo, precio):
   usuario=[{u'materia':materia, u'nombre':nombre, u'apellido':apellido, u'clave_unica':clave_unica,u'telefono':telefono,u'correo':correo, u'precio':precio}]
