@@ -68,10 +68,11 @@ En caso de que no haya ningún alumno que desee fungir como asesor en las prueba
 Se buscará que en cada prueba haya al menos un integrante del equipo de desarrollo presente, de forma tal que éste pueda identificar y, en dado caso, corregir, los errores que puedan surgir. 
 
 ## 15. Responsabilidades 
-Dividimos las responsabilidades ,entre los miembros del equipo, de la siguiente forma:
-* Israel: identificar los riesgos.
-* Andrea: determinar las estrategias
-* Víctor:
+|     | TM | PM |Dev Team| Test Team| Client|
+|----|----|-----|------|-----|----|
+|Prueba de aceptación Documentación y Ejecución|X|X| |X|X|
+|Prueba de Integración de sistema Documentación y Ejecución|X| |X|X| |
+|Prueba de Unidad Documentación y ejecución|X| |X|X| |
 
 ## 16. Itinerario 
 Se realizarán las siguientes actividades de pruebas: 
