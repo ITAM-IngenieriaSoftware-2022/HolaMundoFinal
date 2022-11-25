@@ -40,6 +40,7 @@ El programa únicamente podrá ser utilizado por miembros de la comunidad del IT
 ### 2.5 Documentación del usuario 
 
 * El usuario necesita descargar Visual Studio Code o el IDE de su elección para ejecutar el código.
+* Se requiere descargar Python, cualquier version mayor a 3 es funcional.
 * También necesita clonar el código dentro de la carpeta "Código Final" a su computadora.
 * Se necesita ejecutar el programa mediante una terminal nueva.
 * Posteriormente necesita instalar los requerimientos mediante: 
@@ -87,10 +88,4 @@ Para este proyecto se utilizó una combinación de arquitectura por capas y arqu
 ## Apéndice B: Metodología de trabajo 
 Utilizamos una metodología Feature Driven para desarrollar el proyecto, pues de esta forma varios integrantes del equipo pudieron trabajar en diferentes funcionalidades a la vez, sin que el trabajo de uno interfiriera con el otro. Además, así se pudo aprovechar de la mejor manera el tiempo con el que dispusimos. 
 ## Apéndice C: Casos de uso
-
-
-
-
-
-
 
