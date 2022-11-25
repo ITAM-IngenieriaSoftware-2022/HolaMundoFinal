@@ -11,15 +11,11 @@ def index():
     else:
         return render_template('login.html')
 
+    
 @main.route('/home')
 @login_required
 def home():
     if current_user.email!='pedro9livares@gmail.com':
         return render_template('home.html', name=current_user.name)
-
-
-
-
-
 
 
