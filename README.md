@@ -3,6 +3,8 @@ Preparado por: Andrea Bellesia, Sara Visoso, Israel Cabrera, Victor Manual Jimé
 
 Link Proyecto: https://asesorias-online-holamundo.herokuapp.com/login
 
+Video Presentación: https://drive.google.com/file/d/1PKrdKQbr7UMdg29sVJSyM_ROGqGfyG1P/view
+
 ## 1. Introducción 
 ### 1.1 Propósito
 El software descrito en este documento consiste de una aplicación para dar y tomar asesorías de manera institucional. Se busca que esta aplicación ayude a los alumnos a recibir asesorías de manera rápida y personalizada, además de proporcionar un espacio para aquellos alumnos que deseen brindar ayuda puedan hacerlo de manera segura y fácil.
