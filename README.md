@@ -88,9 +88,14 @@ Para este proyecto se utilizó una combinación de arquitectura por capas y arqu
 ## Apéndice B: Metodología de trabajo 
 Utilizamos una metodología Feature Driven para desarrollar el proyecto, pues de esta forma varios integrantes del equipo pudieron trabajar en diferentes funcionalidades a la vez, sin que el trabajo de uno interfiriera con el otro. Además, así se pudo aprovechar de la mejor manera el tiempo con el que dispusimos. 
 ## Apéndice C: Casos de uso
-* Registro de usuario ![documentation_images\Caso_Registro_Usuario.PNG](documentation_images\Caso_Registro_Usuario.PNG) 
+* Registro de usuario ![documentation_images\Caso_Registro_Usuario.PNG](.\documentation_images\Caso_Registro_Usuario.PNG) 
     * Supuestos.
         * El usuario desea registrarse en nuestra aplicación.
         * El usuario tiene un correo electronico el cual usar para su registro.
         * El usuario llena correctamente el formulario
 
+* Inicio de Sesión. ![Caso_Inicio_Sesion](.\documentation_images\Caso_Inicio_Sesion.PNG)         
+   * Supuestos. 
+       * El usuario ha creado una cuenta en nuestra aplicación
+       * El usuario ingresa correctamente los datos de su cuenta.
+       * El usuario está familiarizado con el proceso de inicio de sesion.
